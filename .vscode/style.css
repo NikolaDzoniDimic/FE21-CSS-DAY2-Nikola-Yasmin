@@ -5,13 +5,19 @@
 
 body{
     margin: 40px 80px;
+    font-family: 'Happy Monkey', cursive;
 }
 
 .checked{
-    color: orange;
+    padding: 20px 0;
+    font-size: 25px;
+    color:#F4B400;
+    text-align: center;
 }
 .fa-color{
-    color:orange;
+    padding: 20px 0;
+    font-size: 25px;
+    color:#F4B400;
 }
 .container{
    width: 800px;
@@ -43,6 +49,7 @@ body{
    }
    .hero h2{
        color: #3998A3;
+
    }
    .hero h3{
        color: #474747;
@@ -52,3 +59,25 @@ body{
        background-color:#f4f4f4;
        padding-bottom: 10px;
    }
+
+
+ .content li {
+  padding: 5px 0;
+  
+ }
+ 
+ footer {
+     text-align: center;
+ }
+
+.rating{
+    padding: 20px 0;
+    text-align: center;
+}
+.content h3{
+    padding: 20px 0;
+
+}
+.content li {
+    padding: 20px 0;
+}
